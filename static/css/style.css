@@ -1,0 +1,21 @@
+
+#nav-img > img{
+    width: 300px;
+    margin-left: 2rem;
+}
+#content-tarjet{
+    justify-content: center;
+}
+.container-fluid{
+    justify-content: center;
+}
+#main .carousel img{
+    max-height: 80vh;
+    object-fit: cover;
+}
+.end-aling{
+    text-align: end;
+
+    font-size: 1.19rem;
+    text-shadow: 1px 1px 1px black;
+}
